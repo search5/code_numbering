@@ -1,17 +1,17 @@
 # code_numbering
 
-== Usage ==
-기본 사용법
+## Usage
+기본 사용법  
 <code>
 python number_tagging.py 텍스트파일 > number_tagging_filename or clipboard copy cmd
 </code>
-
-확장 사용법
+  
+확장 사용법  
 <code>
 python number_tagging.py 텍스트파일 시작줄번호-1 > number_tagging_filename or clipboard copy cmd
 </code>
 
-== 결과 ==
+## 결과
 <pre>
 01: __author__ = 'jiho'
 02: 
